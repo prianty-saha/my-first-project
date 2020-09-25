@@ -1,3 +1,5 @@
 <?php
 
-echo "git test of master sdkjfhkjsdhfkjshdkj";
+
+echo "git test of merged sdkjfhkjsdhfkjshdkj";
+
